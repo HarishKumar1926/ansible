@@ -7,7 +7,7 @@ roboshop-us-dev-db-mongodb-01.techspotlight.online
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
 MONGO_DB=categories
-NAME=Sivakumar-inventory
+NAME=HarishKumar-inventory
 
 [mysql]
 roboshop-us-dev-db-mysql-01.techspotlight.online
